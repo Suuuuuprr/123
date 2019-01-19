@@ -8,6 +8,6 @@ exports.run = (client, msg, args) => {
      .addField('stats','Get the status of this bot.')
      .addField('haste','Upload text to Hastebin!')
      .setTimestamp()
-     .setFooter('Hastebin Bot | Made by ohlookitsderpy');
+     .setFooter('Hastebin Bot | Made by Suuuupr');
    msg.channel.send(embed);
 };
